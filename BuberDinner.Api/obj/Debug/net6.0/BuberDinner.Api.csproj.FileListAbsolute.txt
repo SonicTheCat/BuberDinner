@@ -33,3 +33,4 @@ E:\_Development\CleanArchitecture\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\r
 E:\_Development\CleanArchitecture\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.pdb
 E:\_Development\CleanArchitecture\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.genruntimeconfig.cache
 E:\_Development\CleanArchitecture\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\ref\BuberDinner.Api.dll
+E:\_Development\CleanArchitecture\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
